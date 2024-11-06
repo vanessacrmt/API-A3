@@ -29,7 +29,7 @@ def obter_db():
 def inicializacao():
     db = SessionLocal()
     exercicios = [
-        {"nome": "flexao", "url_video": "http......", "descricao": "exercicio flexão"},
+        
         {"nome": "flexao", "url_video": "http......", "descricao": "exercicio flexão"},
         {"nome": "flexao", "url_video": "http......", "descricao": "exercicio flexão"},
         {"nome": "flexao", "url_video": "http......", "descricao": "exercicio flexão"},
